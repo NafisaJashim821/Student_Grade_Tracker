@@ -23,7 +23,7 @@ class Course {
 
     public double getGrade() {
 
-        return grade;
+        return grade;//grade
     }
 
     public int getCredits() {

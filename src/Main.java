@@ -106,7 +106,7 @@ public class Main {
 
 
     private  static boolean authenticate(String username, String password) {
-        return username.equals("user") && password.equals("password");
+        return username.equals("user") && password.equals("password"); //user
     }
 }
 

@@ -3,7 +3,7 @@ import java.io.*;
 
 
 public class FileHandler {
-    private String filePath;
+    private String filePath; // file path
 
     public FileHandler(String filePath) {
 
