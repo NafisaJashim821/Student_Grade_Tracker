@@ -1,0 +1,24 @@
+Student Name: arpita
+Student ID: BKH2125015F
+GPA: 3.65
+
+Student Name: nafisa
+Student ID: BFH2125014F
+GPA: 3.3
+
+Student Name: Rajib
+Student ID: MUH212505M
+GPA: 3.8
+
+Student Name: Maruf
+Student ID: MUH2125022M
+GPA: 2.75
+
+Student Name: Asif
+Student ID: x,ex
+GPA: 3.25
+
+Student Name: nafisa
+Student ID: bkh2125014f
+GPA: 3.3299999999999996
+
